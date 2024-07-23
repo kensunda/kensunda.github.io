@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kensunda.github.io/sitemap
+Sitemap: https://kensunda.github.io/app/sitemap
+Sitemap: https://kensunda.github.io/assets/sitemap
+Sitemap: https://kensunda.github.io/css/sitemap
+Sitemap: https://kensunda.github.io/includes/sitemap
+Sitemap: https://kensunda.github.io/item/sitemap
+Sitemap: https://kensunda.github.io/src/sitemap
